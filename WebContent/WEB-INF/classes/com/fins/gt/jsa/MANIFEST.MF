@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.fins.gt.jsa.Analyser
+Class-Path: JSA.jar
+
